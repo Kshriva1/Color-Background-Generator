@@ -3,12 +3,8 @@ A background generator website built using html, css and javascript DOM structur
 
 You can view the website [here](https://kshriva1.github.io/Color-Background-Generator/).
 
-In this website I have:
 
-1. Written code so that the colour inputs match the background generated on the first page load. 
+This website initially has a default background. We can change the background using the two color selectors on the webpage. This webpage can be used in several projects and provides a good background.
 
-2. Displayed the initial CSS linear gradient property on page load.
+This website has a random button which internally produces two random numbers to change the background colors.
 
-3. Added a random button which generates two random numbers for the colour inputs.
-
-If you press the random button, the color of the background changes.
