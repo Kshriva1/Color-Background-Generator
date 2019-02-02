@@ -1,7 +1,7 @@
 # Color-Background-Generator
 A background generator website built using html, css and javascript DOM structure
 
-You can view the website (here)[https://kshriva1.github.io/Color-Background-Generator/].
+You can view the website [here](https://kshriva1.github.io/Color-Background-Generator/).
 
 In this website I have:
 
